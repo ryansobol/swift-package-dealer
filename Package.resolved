@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DeckOfPlayingCards",
+        "repositoryURL": "https://github.com/ryansobol/swift-package-deckofplayingcards.git",
+        "state": {
+          "branch": "master",
+          "revision": "2bb3fcee4da6bd3a11c713cf8fe724785af0fc42",
+          "version": null
+        }
+      },
+      {
+        "package": "FisherYates",
+        "repositoryURL": "https://github.com/ryansobol/swift-package-fisheryates.git",
+        "state": {
+          "branch": "master",
+          "revision": "c07ce2264ad3a91fcb26ac210b244fc859ab7ddf",
+          "version": null
+        }
+      },
+      {
+        "package": "PlayingCard",
+        "repositoryURL": "https://github.com/ryansobol/swift-package-playingcard.git",
+        "state": {
+          "branch": "master",
+          "revision": "878aa1423645969b60ad10b6a41e2eb2e6e15add",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
